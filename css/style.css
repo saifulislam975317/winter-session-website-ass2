@@ -1,0 +1,38 @@
+.card.h-100.women-card img {
+    height: 430px;
+    padding: 20px;
+}
+
+.card.h-100.women-card {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+
+.card-footer.d-flex.justify-content-between.align-items-center {
+    border: 0;
+    background-color: white;
+    border-radius: 15px;
+}
+.orange{
+    color: orange;
+}
+
+.saiful-section{
+    margin-top: 20px;
+}
+
+section.container.mt-5.footer-section {
+    background-color: black;
+    color: darkgray;
+    padding: 30px;
+}
+
+.col-md-4.social-icons a {
+    font-size: 50px;
+    color: lightsteelblue;
+    padding: 5px;
+}
+.copy-right{
+    text-align: center;
+    color: lightgray;
+}
